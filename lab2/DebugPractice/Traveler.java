@@ -1,6 +1,6 @@
 public class Traveler {
 
-    public static final long EPSILON = 300;
+    public static final long EPSILON = -1;
 
     private String name;
     private int treasures;
